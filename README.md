@@ -1,0 +1,3 @@
+**Still Hungry** is a datapack that aims to add harder mobs, random events, and increased difficulty to vanilla minecraft along with more powerful tools and weapons against the hard difficulty.
+
+This is inspired by Terraria's hardmode and the achievement "Still Hungry" after defeating the Wall of Flesh, a guardian that seals the anciant spirits of dark and light and entering a new phase called hardmode.

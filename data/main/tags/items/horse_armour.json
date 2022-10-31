@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:iron_horse_armor",
+        "minecraft:golden_horse_armor"
+    ]
+}
