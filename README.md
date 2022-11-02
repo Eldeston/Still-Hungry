@@ -7,6 +7,10 @@
 This is inspired by Terraria's hardmode and the achievement "Still Hungry" after defeating the Wall of Flesh,guardian that seals the anciant spirits of dark and light and entering a new phase called hardmode.
 
 ## Features
+* (Upcoming) Game events. These events will either help you or kill you and these are the following events:
+    * Dark moon - Increased mob spawn rate. Occurs randomly at night.
+    * Dark storm - Thundering weather and increased mob rate. Occurs randomly at sunrise and lasts for a whole day and cannot be skipped by sleeping.
+
 * Useful smithing table. Upgrades tools other than diamond into the following tiers.
     * Tier 0 - Wooden / Leather
     * Tier 1 - Chain / Stone
@@ -22,7 +26,7 @@ Try out my other projects!
 [![img](https://github.com/Eldeston/ESTN-Shaders/blob/master/textures/ui/title.png)](https://mcpedl.com/estn-shaders/?cookie_check=1)
 
 Come join my Discord server to talk about other developments made by our studio-community!
-* [Flamerender Studios Discord](https://discord.gg/4XNhkcd)
+* [Flamerender Studios Discord](https://discord.gg/UE85W5ynCg)
 
 Or follow me on Twitter or subscribe to my Youtube channel to get updated with my recent developments and contents
 * [@Eldeston's Twitter](https://twitter.com/eldeston)
